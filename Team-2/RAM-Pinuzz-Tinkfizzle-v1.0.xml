@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Gnome des roches</race>
+<class>Druide</class>
+<level>1</level>
+<background>Sage</background>
+
+<str>13</str>
+<dex>11</dex>
+<con>12</con>
+<int>12</int>
+<wis>15</wis>
+<cha>10</cha>
+
+<lvl lvl="1"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="2"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="3"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+
+<raceCustom></raceCustom>
+<styleCombat1></styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>6</pack>
+<backSpe></backSpe>
+
+<skillsProf id="0"></skillsProf>
+<skillsProf id="1">12,10</skillsProf>
+<skillsProf id="2">1,6</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0">outils de bricoleur</toolsProf>
+<toolsProf id="1">kit d'herboriste</toolsProf>
+<toolsProf id="2"></toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">commun,gnome</languages>
+<languages id="1"></languages>
+<languages id="2">elfique,orque</languages>
+<languages id="3"></languages>
+
+<knownSpell lvl="0">fouet épineux</knownSpell>
+<knownSpell lvl="0">réparation</knownSpell>
+
+<gp>10</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>2</armor>
+<shield>1</shield>
+<weapon>16</weapon>
+<weaponQ>1</weaponQ>
+<tools>0,0</tools>
+
+<item>35,80,81,38,5,90,76,39,17,23,71,92</item>
+<itemQ>1,1,1,1,1,10,10,1,1,1,1,1</itemQ>
+<itemX>petit couteau, lettre d'un collègue mort, bourse</itemX>
+<name>Pinuzz Tinkfizzle</name>
+<sexe>0</sexe>
+<age>200</age>
+<height>1,05 m</height>
+<weight>18 kg</weight>
+<alignment>0</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits></traits>
+<ideals></ideals>
+<bonds></bonds>
+<flaws></flaws>
+
+<backstory></backstory>
+<allies></allies>
+<features></features>
+<treasure></treasure>
+
+</character>
+</builder>
