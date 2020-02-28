@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Demi-elfe</race>
+<class>Rôdeur</class>
+<level>5</level>
+<background>Noble</background>
+
+<str>15</str>
+<dex>14</dex>
+<con>15</con>
+<int>13</int>
+<wis>15</wis>
+<cha>10</cha>
+
+<lvl lvl="1"><hp_brut>10</hp_brut><aug_carac0>2</aug_carac0><aug_carac1>1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="2"><hp_brut>9</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="3"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="4"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat>Lanceur de rituels</feat><feat_custom>4</feat_custom></lvl>
+<lvl lvl="5"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+
+<raceCustom></raceCustom>
+<classPath>tueur de monstres</classPath>
+<classCustom id="0">4</classCustom>
+<classCustom id="3">2</classCustom>
+<styleCombat1>0</styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>19</pack>
+<backSpe></backSpe>
+
+<skillsProf id="0">8,10</skillsProf>
+<skillsProf id="1">2,3,16</skillsProf>
+<skillsProf id="2">6,13</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0"></toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2">dés</toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">commun,elfique,nain</languages>
+<languages id="1"></languages>
+<languages id="2">halfelin</languages>
+<languages id="3"></languages>
+
+<innateSpell id="4">armure de mage</innateSpell>
+<innateSpell id="5">onde de choc</innateSpell>
+<knownSpell lvl="1">communication avec les animaux</knownSpell>
+<knownSpell lvl="1">baies nourricières</knownSpell>
+<knownSpell lvl="1">marque du chasseur</knownSpell>
+<knownSpell lvl="2">sens des pièges</knownSpell>
+
+<gp>325</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>2</armor>
+<shield>0</shield>
+<weapon>5,7,36</weapon>
+<weaponQ>1,1,1</weaponQ>
+<tools>2,3</tools>
+
+<item>57,80,81,38,5,90,76,39,17,94,12</item>
+<itemQ>1,1,1,1,1,10,10,1,1,1,1</itemQ>
+<itemX>lettre de noblesse, bourse</itemX>
+<name>Niluje</name>
+<sexe>0</sexe>
+<age>80</age>
+<height>1,75 m</height>
+<weight>75 kg</weight>
+<alignment>1</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits></traits>
+<ideals></ideals>
+<bonds></bonds>
+<flaws></flaws>
+
+<backstory></backstory>
+<allies></allies>
+<features></features>
+<treasure></treasure>
+
+</character>
+</builder>
