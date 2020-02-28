@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Demi-elfe</race>
+<class>Ensorceleur</class>
+<level>2</level>
+<background>Noble</background>
+
+<str>12</str>
+<dex>12</dex>
+<con>12</con>
+<int>11</int>
+<wis>11</wis>
+<cha>15</cha>
+
+<lvl lvl="1"><hp_brut>6</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="2"><hp_brut>5</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="3"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="4"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="5"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
+
+<raceCustom></raceCustom>
+<classCustom id="0">4</classCustom>
+<styleCombat1></styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>8</pack>
+<backSpe></backSpe>
+
+<skillsProf id="0">10,3</skillsProf>
+<skillsProf id="1">13,8</skillsProf>
+<skillsProf id="2">6,13</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0"></toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2">jeu de cartes</toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">commun,elfique,nain</languages>
+<languages id="1">draconique</languages>
+<languages id="2">halfelin</languages>
+<languages id="3"></languages>
+
+<knownSpell lvl="0">contrôle des flammes</knownSpell>
+<knownSpell lvl="0">explosion de lames</knownSpell>
+<knownSpell lvl="0">main de mage</knownSpell>
+<knownSpell lvl="0">réparation</knownSpell>
+<knownSpell lvl="1">armure de mage</knownSpell>
+<knownSpell lvl="1">mains brûlantes</knownSpell>
+<knownSpell lvl="1">onde de choc</knownSpell>
+
+<gp>25</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>0</armor>
+<shield>0</shield>
+<weapon>12,3</weapon>
+<weaponQ>1,2</weaponQ>
+<tools>0,0</tools>
+
+<item>56,82,80,66,49,70,90,5,76,39,17,94,12</item>
+<itemQ>1,1,1,1,1,10,10,1,10,1,1,1,1</itemQ>
+<itemX>lettre de noblesse, bourse</itemX>
+<name>Thia Naïlo</name>
+<sexe>1</sexe>
+<age>20</age>
+<height>1,75 m</height>
+<weight>75 kg</weight>
+<alignment>4</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits></traits>
+<ideals></ideals>
+<bonds></bonds>
+<flaws></flaws>
+
+<backstory></backstory>
+<allies></allies>
+<features></features>
+<treasure></treasure>
+
+</character>
+</builder>
