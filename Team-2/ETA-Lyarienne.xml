@@ -69,23 +69,23 @@
 
 <armor>10</armor>
 <shield>0</shield>
-<weapon>19,20,3</weapon>
+<weapon>18,19,3</weapon>
 <weaponQ>1,1,1</weaponQ>
 <tools>0,17</tools>
 
 <item>87,80,81,38,5,90,76,39,17,92</item>
 <itemQ>1,1,1,1,1,10,10,1,1,1</itemQ>
 <itemX>trophée, insigne de grade, bourse</itemX>
-<name>Nom du personnage</name>
+<name>Lyarienne</name>
 <sexe>1</sexe>
 <age>100</age>
 <height>1,65 m</height>
 <weight>55 kg</weight>
 <alignment>0</alignment>
 <xp>0</xp>
-<eyes></eyes>
-<skin></skin>
-<hair></hair>
+<eyes>marron foncés</eyes>
+<skin>blanche</skin>
+<hair>chatain</hair>
 
 <appearance></appearance>
 <traits></traits>
