@@ -4,7 +4,7 @@
 <confLang>0</confLang>
 
 <character>
-<race>Gnome des roches</race>
+<race>Gnome des forêts</race>
 <class>Druide</class>
 <level>1</level>
 <background>Sage</background>
@@ -50,7 +50,7 @@
 <skillsProf id="1">12,10</skillsProf>
 <skillsProf id="2">1,6</skillsProf>
 <skillsProf id="3"></skillsProf>
-<toolsProf id="0">outils de bricoleur</toolsProf>
+<toolsProf id="0"></toolsProf>
 <toolsProf id="1">kit d'herboriste</toolsProf>
 <toolsProf id="2"></toolsProf>
 <toolsProf id="3"></toolsProf>
