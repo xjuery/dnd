@@ -7,14 +7,14 @@
 <race>Humain</race>
 <class>Barde</class>
 <level>1</level>
-<background>Sage</background>
+<background>Artiste</background>
 
 <str>10</str>
-<dex>15</dex>
-<con>13</con>
-<int>10</int>
+<dex>13</dex>
+<con>12</con>
+<int>12</int>
 <wis>11</wis>
-<cha>16</cha>
+<cha>15</cha>
 
 <lvl lvl="1"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
 <lvl lvl="2"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><feat_custom>-1</feat_custom></lvl>
@@ -44,27 +44,27 @@
 <favoredEnemy6></favoredEnemy6>
 <favoredEnemy14></favoredEnemy14>
 <pack>2</pack>
-<backSpe>Conteur</backSpe>
+<backSpe>Musicien</backSpe>
 
 <skillsProf id="0"></skillsProf>
-<skillsProf id="1">13,3,8</skillsProf>
-<skillsProf id="2">1,6</skillsProf>
+<skillsProf id="1">6,8,17</skillsProf>
+<skillsProf id="2">0,15</skillsProf>
 <skillsProf id="3"></skillsProf>
 <toolsProf id="0"></toolsProf>
-<toolsProf id="1">luth, flûte, cor</toolsProf>
-<toolsProf id="2"></toolsProf>
+<toolsProf id="1">luth, cor, flûte</toolsProf>
+<toolsProf id="2">kit de déguisement, flûte</toolsProf>
 <toolsProf id="3"></toolsProf>
 <languages id="0">commun,elfique</languages>
 <languages id="1"></languages>
-<languages id="2">elfique,halfelin</languages>
+<languages id="2"></languages>
 <languages id="3"></languages>
 
 <knownSpell lvl="0">moquerie cruelle</knownSpell>
 <knownSpell lvl="0">prestidigitation</knownSpell>
+<knownSpell lvl="1">soins</knownSpell>
 <knownSpell lvl="1">déguisement</knownSpell>
 <knownSpell lvl="1">fou rire de tasha</knownSpell>
 <knownSpell lvl="1">murmures dissonants</knownSpell>
-<knownSpell lvl="1">soins</knownSpell>
 
 <gp>15</gp>
 <pp>0</pp>
@@ -76,30 +76,30 @@
 <shield>0</shield>
 <weapon>32,3</weapon>
 <weaponQ>1,1</weaponQ>
-<tools>12,0</tools>
+<tools>12,10</tools>
 
-<item>16,25,94,23,71,43,42,60,62,14,83,23,71,92</item>
-<itemQ>1,2,1,1,1,1,2,5,1,1,1,1,1,1</itemQ>
-<itemX>un cadeau d'un admirateur (une broche en forme de rose rouge), un costume et une bourse contenant 15 po.</itemX>
-<name>Aldric, Le prodigieux</name>
+<item>16,25,94,23,71,43,42,60,62,14,83,93</item>
+<itemQ>1,2,1,1,1,1,2,5,1,1,1,1</itemQ>
+<itemX>cadeau d'un admirateur, bourse</itemX>
+<name>Aldric, le Magnifique</name>
 <sexe>0</sexe>
 <age>27</age>
-<height>1,81 m</height>
-<weight>87 kg</weight>
+<height>1,80 m</height>
+<weight>80 kg</weight>
 <alignment>3</alignment>
 <xp>0</xp>
 <eyes>Marron</eyes>
-<skin>Clair</skin>
+<skin>Halé </skin>
 <hair>Chatain</hair>
 
 <appearance></appearance>
-<traits>Personne ne reste en colère contre moi très longtemps, car je peux désamorcer toute tension.</traits>
-<ideals>Peuple. J'aime voir des sourires sur les visages qui m'entourent lorsque je fais ma représentation. C'est tout ce qui m'importe (Neutre).</ideals>
+<traits>À chaque fois que j'arrive dans un nouvel endroit, je m'entiche des rumeurs locales et répands les commérages.</traits>
+<ideals>Honnêteté. L'art doit être le reflet de l'âme ; il doit provenir du plus profond de notre être et révéler qui nous sommes (Tout alignement).</ideals>
 <bonds>Je ferais n'importe quoi pour les membres de mon ancienne troupe.</bonds>
 <flaws>Je suis sans défense devant un joli minois.</flaws>
 
 <backstory></backstory>
-<allies></allies>
+<allies>J'ai quelques connaissance, notamment dans la ville de Lunargent, dans le collège des bardes.</allies>
 <features></features>
 <treasure></treasure>
 
