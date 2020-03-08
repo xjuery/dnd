@@ -44,15 +44,15 @@
 <favoredEnemy6></favoredEnemy6>
 <favoredEnemy14></favoredEnemy14>
 <pack>2</pack>
-<backSpe>Musicien</backSpe>
+<backSpe>Conteur</backSpe>
 
 <skillsProf id="0"></skillsProf>
-<skillsProf id="1">6,8,17</skillsProf>
+<skillsProf id="1">12,13,6</skillsProf>
 <skillsProf id="2">0,15</skillsProf>
 <skillsProf id="3"></skillsProf>
 <toolsProf id="0"></toolsProf>
-<toolsProf id="1">luth, cor, flûte</toolsProf>
-<toolsProf id="2">kit de déguisement, flûte</toolsProf>
+<toolsProf id="1">luth, flûte, cor</toolsProf>
+<toolsProf id="2">kit de déguisement, luth</toolsProf>
 <toolsProf id="3"></toolsProf>
 <languages id="0">commun,elfique</languages>
 <languages id="1"></languages>
@@ -62,9 +62,9 @@
 <knownSpell lvl="0">moquerie cruelle</knownSpell>
 <knownSpell lvl="0">prestidigitation</knownSpell>
 <knownSpell lvl="1">soins</knownSpell>
-<knownSpell lvl="1">déguisement</knownSpell>
 <knownSpell lvl="1">fou rire de tasha</knownSpell>
 <knownSpell lvl="1">murmures dissonants</knownSpell>
+<knownSpell lvl="1">déguisement</knownSpell>
 
 <gp>15</gp>
 <pp>0</pp>
@@ -81,15 +81,15 @@
 <item>16,25,94,23,71,43,42,60,62,14,83,93</item>
 <itemQ>1,2,1,1,1,1,2,5,1,1,1,1</itemQ>
 <itemX>cadeau d'un admirateur, bourse</itemX>
-<name>Aldric, le Magnifique</name>
+<name>Aldric le Magnifique</name>
 <sexe>0</sexe>
 <age>27</age>
 <height>1,80 m</height>
 <weight>80 kg</weight>
-<alignment>3</alignment>
+<alignment>4</alignment>
 <xp>0</xp>
 <eyes>Marron</eyes>
-<skin>Halé </skin>
+<skin>Halé</skin>
 <hair>Chatain</hair>
 
 <appearance></appearance>
