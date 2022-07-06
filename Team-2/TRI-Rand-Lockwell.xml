@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<builder>
+
+<confLang>0</confLang>
+
+<character>
+<race>Humain</race>
+<class>Occultiste</class>
+<level>5</level>
+<background>Archéologue</background>
+
+<str>10</str>
+<dex>14</dex>
+<con>10</con>
+<int>12</int>
+<wis>13</wis>
+<cha>14</cha>
+
+<lvl lvl="1"><hp_brut>8</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="2"><hp_brut>5</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="3"><hp_brut>4</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="4"><hp_brut>4</hp_brut><aug_carac0>5</aug_carac0><aug_carac1>5</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="5"><hp_brut>5</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="6"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="7"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="8"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="9"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="10"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="11"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="12"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="13"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="14"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="15"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="16"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="17"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="18"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="19"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+<lvl lvl="20"><hp_brut>0</hp_brut><aug_carac0>-1</aug_carac0><aug_carac1>-1</aug_carac1><aug_carac2>-1</aug_carac2></lvl>
+
+<raceCustom></raceCustom>
+<classPath>Grand Ancien</classPath>
+<classCustom id="0">1</classCustom>
+<styleCombat1></styleCombat1>
+<styleCombat2></styleCombat2>
+<favoredEnemy0></favoredEnemy0>
+<favoredEnemy6></favoredEnemy6>
+<favoredEnemy14></favoredEnemy14>
+<pack>23</pack>
+<backSpe></backSpe>
+
+<skillsProf id="0"></skillsProf>
+<skillsProf id="1">1,6</skillsProf>
+<skillsProf id="2">6,16</skillsProf>
+<skillsProf id="3"></skillsProf>
+<toolsProf id="0"></toolsProf>
+<toolsProf id="1"></toolsProf>
+<toolsProf id="2">outils de cartographe</toolsProf>
+<toolsProf id="3"></toolsProf>
+<languages id="0">commun,elfique</languages>
+<languages id="1"></languages>
+<languages id="2">halfelin</languages>
+<languages id="3"></languages>
+
+<knownSpell lvl="0">décharge occulte</knownSpell>
+<knownSpell lvl="0">main de mage</knownSpell>
+<knownSpell lvl="0">amis</knownSpell>
+<knownSpell lvl="1">armure d'agathys</knownSpell>
+<knownSpell lvl="1">serviteur invisible</knownSpell>
+<knownSpell lvl="1">repli expéditif</knownSpell>
+<knownSpell lvl="2">pattes d'araignée</knownSpell>
+<knownSpell lvl="2">fracassement</knownSpell>
+<knownSpell lvl="2">image miroir</knownSpell>
+<knownSpell lvl="3"></knownSpell>
+<knownInvocation>Décharge répulsive</knownInvocation>
+<knownInvocation>Oeil du gardien des runes</knownInvocation>
+<knownInvocation>Décharge déchirante</knownInvocation>
+
+<gp>2</gp>
+<pp>0</pp>
+<ep>0</ep>
+<sp>0</sp>
+<cp>0</cp>
+
+<armor>2</armor>
+<shield>0</shield>
+<weapon>3,2</weapon>
+<weaponQ>2,1</weaponQ>
+<tools>27,0</tools>
+
+<item>33,80,66,49,70,90,5,76,39,17,44,69,95,63,89</item>
+<itemQ>1,1,1,1,10,10,1,10,1,1,1,1,1,1,1</itemQ>
+<itemX>carte d'une ruine, babiole récupérée lors d'une fouille, objet significatif, bourse</itemX>
+<name>Rand Lockwell</name>
+<sexe>0</sexe>
+<age>20</age>
+<height>1,75 m</height>
+<weight>80 kg</weight>
+<alignment>3</alignment>
+<xp>0</xp>
+<eyes></eyes>
+<skin></skin>
+<hair></hair>
+
+<appearance></appearance>
+<traits></traits>
+<ideals></ideals>
+<bonds></bonds>
+<flaws></flaws>
+
+<backstory></backstory>
+<allies></allies>
+<features></features>
+<treasure></treasure>
+
+</character>
+</builder>
