@@ -40,22 +40,18 @@ En cas de succès, tout ce qui se trouve à 1,5 m de la cible doit effectuer un 
 
 Toutes les armes à feu ont besoin de munitions pour effectuer une attaque, et en raison de leur rareté, les munitions peuvent être presque impossibles à trouver ou à acheter. Cependant, si vous trouvez des matériaux, vous pouvez fabriquer vous-même des munitions à l'aide de vos outils de bricoleur pour la moitié du coût. Chaque arme à feu utilise des munitions qui lui sont propres et est généralement vendue ou fabriquée par lots, indiqués ci-dessous à côté du prix.
 
-==== Armes à feu
-Nom Coût Munitions Dommages Poids Portée Propriétés
-Pistolet de poche 50g 2g (20) 1d8 perçant 1 lb (40/160) 	
-Léger, recharge 1, raté 1
-Pistolet 150g 4g (20) 1d10 perçant 3 lb (60/240) 	
-Recharge 4, raté 1
-Mousquet 300g 5g (20) 1d12 perçant 10 lb (120/480) 	
-A deux mains, rechargement 1, raté 2
-Poivrière 250g 4g (20) 1d10 perçant 5 lb (80/320) 	
-Recharge 6, raté 2
-Gyrophare 300g 5g (5) 2d8 perçant 10 lb (15/60) 	
-Recharge 1, raté 2
-Bad News Crafted 10g (5) 2d12 perçant 25 lb (200/800) 	
-A deux mains, recharge 1, raté 3
-Mortier à main Fabrication artisanale 10g (1) 2d8 feu 10 lb (30/60) 	
-Recharge 1, raté 3, explosif
+=== Armes à feu
+[cols="<,<,<,<,<,<,<",options="header",]
+|====================================================
+|Nom |Coût |Munitions |Dommages |Poids |Portée |Propriétés
+|Pistolet de poche |50po |2po (20) |1d8 perçant |1 lb |40/160 |Léger, Recharge 1, Raté 1
+|Pistolet |150po |4po (20) |1d10 perçant |3 lb |60/240 |Recharge 4, Raté 1
+|Mousquet |300po |5po (20) |1d12 perçant |10 lb |120/480 |A deux mains, Recharge 1, Raté 2
+|Poivrière |250po |4po (20) |1d10 perçant |5 lb |80/320 |Recharge 6, Raté 2
+|gyrophare |300po |5po (5) |2d8 perçant |10 lb |15/60 |Recharge 1, Raté 2
+|"Bad News" |Fabrication artisanale |10po (5) |2d12 perçant |25 lb |200/800 |A deux mains, Recharge 1, Raté 3
+|Mortier à main |Fabrication artisanale |10po (1) |2d8 feu |10 lb |30/60 |Recharge 1, Raté 3, Explosif
+|====================================================
 
 == Tireur d'élite adroit
 
